@@ -2,12 +2,12 @@ export const businessConfig = {
   brandName: 'Borrebutiken',
   websiteUrl: 'https://borrebutiken.se',
   cabinName: 'Borrebutiken Fishing Cabin',
-  contactPerson: 'Patric',
-  contactEmail: 'booking@borrebutiken.se',
+  contactPerson: 'Patric Tall',
+  contactEmail: 'infog@borrebutiken.se',
   contactPhone: '+46 700 00 00 00',
   location: {
     region: 'Dalsland, Sweden',
-    nearestTown: 'Placeholder nearest town',
+    nearestTown: '15 minuter från Mellerud',
   },
   season: {
     fromMonth: 4,

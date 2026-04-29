@@ -56,8 +56,8 @@ export const sv = {
     includedItems: [
       'Basutrustat kök och matplats',
       'Sovplatser enligt maxantal gäster',
-      'Wi-Fi (placeholder)',
-      'Parkeringsmöjlighet',
+      'Wi-Fi (?)',
+      'Parkeringsmöjlighet för bil + båt',
     ],
     amenitiesTitle: 'Bekvämligheter',
     amenitiesItems: [
@@ -145,14 +145,14 @@ export const sv = {
       },
       {
         q: 'Hur många personer kan bo i stugan?',
-        a: 'Stugan är avsedd för upp till 4 gäster i denna MVP-konfiguration.',
+        a: 'Stugan är avsedd för upp till 4 gäster.',
       },
     ],
   },
   bookingForm: {
     title: 'Skicka bokningsförfrågan',
     intro:
-      'Fyll i formuläret så återkommer Patric efter manuell kontroll av tillgänglighet.',
+      'Fyll i formuläret så återkommer herr direktör Patric efter manuell kontroll av tillgänglighet.',
     fields: {
       firstName: 'Förnamn',
       lastName: 'Efternamn',
