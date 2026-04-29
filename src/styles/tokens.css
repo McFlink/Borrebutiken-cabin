@@ -1,0 +1,23 @@
+:root {
+  --bg: #f2f4ef;
+  --surface: #fcfcf9;
+  --surface-muted: #f5f7f2;
+  --text: #1c2a2a;
+  --text-muted: #526161;
+  --line: #d4ddd4;
+  --primary: #1f5f56;
+  --primary-strong: #184b44;
+  --accent: #8a693b;
+  --success-bg: #e8f5e8;
+  --success-text: #215c2f;
+  --error-bg: #fbeaea;
+  --error-text: #8c2430;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 22px;
+  --shadow-soft: 0 12px 34px rgba(20, 46, 41, 0.09);
+  --shadow-card: 0 8px 20px rgba(20, 46, 41, 0.06);
+  --font-heading: "Fraunces", "Times New Roman", serif;
+  --font-body: "Source Sans 3", "Segoe UI", sans-serif;
+  --container: 1120px;
+}

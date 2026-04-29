@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Cabin interior placeholder">
+  <rect width="1200" height="800" fill="#ece6db" />
+  <rect x="100" y="140" width="1000" height="580" fill="#d8cfbe" />
+  <rect x="180" y="440" width="360" height="180" fill="#b99f79" />
+  <rect x="650" y="360" width="360" height="260" fill="#a88658" />
+  <text x="80" y="100" font-family="Segoe UI, sans-serif" font-size="42" fill="#4b3d2e">Cabin Interior Placeholder</text>
+</svg>

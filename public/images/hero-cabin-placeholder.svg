@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Cabin by lake placeholder">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#dfe8df" />
+      <stop offset="100%" stop-color="#c5d6cf" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g1)" />
+  <rect x="220" y="330" width="760" height="230" rx="8" fill="#6e7f6c" />
+  <rect x="500" y="380" width="170" height="180" fill="#c8d3c3" />
+  <rect x="300" y="390" width="120" height="100" fill="#c8d3c3" />
+  <rect x="760" y="390" width="120" height="100" fill="#c8d3c3" />
+  <rect y="560" width="1200" height="240" fill="#8ca3a0" />
+  <text x="80" y="92" font-family="Segoe UI, sans-serif" font-size="42" fill="#2d413f">Cabin Exterior Placeholder</text>
+</svg>

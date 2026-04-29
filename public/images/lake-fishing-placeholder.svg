@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Lake fishing placeholder">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#d7e7f0" />
+      <stop offset="100%" stop-color="#b8d2e0" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="460" fill="url(#sky)" />
+  <rect y="460" width="1200" height="340" fill="#7ea2ac" />
+  <polygon points="120,520 280,390 360,520" fill="#2f4f4f" />
+  <polygon points="720,520 910,320 1080,520" fill="#385d5d" />
+  <rect x="500" y="510" width="220" height="16" fill="#3f5f60" />
+  <text x="80" y="100" font-family="Segoe UI, sans-serif" font-size="42" fill="#23424c">Lake & Fishing Placeholder</text>
+</svg>
